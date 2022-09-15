@@ -1,0 +1,26 @@
+
+{
+    "names" : 
+    [
+		{"name" : "Бельский Илья"        , "password": 691162, "id" : 405966419   , "default_ch" : "Ест"   , "choose" : ""      },
+		{"name" : "Веников Евгений"      , "password": 340585, "id" : 917937302   , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Веремеенко Иван"      , "password": 293140, "id" : 913006058   , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Горькова Татьяна"     , "password": 398713, "id" : 965691083   , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Грибиникова Ангелина" , "password": 677985, "id" : 1012157750  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Дмитриенко Юрий"      , "password": 922838, "id" : 1035952029  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Доманькина Юлия"      , "password": 521512, "id" : 961527770   , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Канунник Михаил"      , "password": 978010, "id" : 1284337023  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Кириченко Иван"       , "password": 100123, "id" : 887978830   , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Кириченко Тимофей"    , "password": 163405, "id" : 1015466233  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Кобзев Данил"         , "password": 843298, "id" : 657969108   , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Коротенко Анастасия"  , "password": 437141, "id" : 1239383417  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Марченко Артём"       , "password": 896878, "id" : 1068429723  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Попов Анатолий"       , "password": 685388, "id" : 792756919   , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Прокофьева Екатерина" , "password": 130530, "id" : 1772125062  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Романец Владислав"    , "password": 216626, "id" : 1190931130  , "default_ch" : "Не ест", "choose" : ""      },
+		{"name" : "Смирнов Илья"         , "password": 834801, "id" : 1367176546  , "default_ch" : "Не ест", "choose" : "Не ест"},
+		{"name" : "Таничев Кирилл"       , "password": 923061, "id" : 1840747798  , "default_ch" : "Не ест", "choose" : ""      }
+	],
+
+    "command" : [0, 1015466233, 5093645310, 917937302]
+}
